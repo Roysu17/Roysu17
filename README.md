@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Roysu17
-- 👀 I’m interested in Java, C++ PHP, or Html/CSS projects
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Python, Java, PHP, or Web-based projects
 - 📫 How to reach me @RoySu17 on twitter
 
 <!---
